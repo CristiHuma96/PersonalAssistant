@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">PersonalAssistant</string>
+
+    <string name="setting_up_message">Preparing the recognizer</string>
+    <string name="setting_up_error">Failed to set up the recognizer:</string>
+    <string name="unknown_search_error">Failed to set up new search:</string>
+
+    <string name="start_info">To start say Hello Benjamin</string>
+    <string name="welcome_message">How can I help you today?(send a message/call someone/take a video)</string>
+
+    <string name="call_command">Which number do you want to call?</string>
+    <string name="send_messsage_command">Which number do you want to message to?</string>
+    <string name="video_camera_command">Setting up camera</string>
+
+</resources>
